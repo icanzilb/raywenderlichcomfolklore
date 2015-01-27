@@ -131,7 +131,13 @@
 
 ![](images/bullseye.jpg)
 
-^ I bet many of you recognize the Bull’s Eye app from the iOS Apprentice. Matthijs wrote the book back in 2011, but he updates it every year to the new iOS version: from iOS 5 -> 6 -> 7 -> 8, and he even updated the book to an entirely new programming language: Swift.
+^ I bet many of you recognize the Bull’s Eye app from the iOS Apprentice. Matthijs wrote the book back in 2011, but he updates it every year to the new iOS version: from iOS 5 -> 6 ... 
+
+---
+
+![](images/bullseyeios8.png)
+
+^ ... -> 7 -> 8, and he even updated the book to an entirely new programming language: Swift.
 
 ---
 
