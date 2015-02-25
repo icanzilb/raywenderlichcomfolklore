@@ -262,7 +262,7 @@
 
 ---
 
-![](images/editor-feedback.png)
+![fit](images/editor-feedback.png)
 
 ^ And then you receive the longest email with destroying feedback!
 
@@ -270,7 +270,7 @@
 
 ![fit](images/accepted.png)
 
-^ # [fit] So you *buckle up* and up your game.
+^ So you *buckle up* and up your game.
 
 ---
 
@@ -489,7 +489,6 @@
 
 ---
 
-# [fit] Insert audience photo from conf here
 ![](images/rwdevcon-audience.jpg)
 
 ^ But I don’t need to tell you about RWDevCon, do I? 
